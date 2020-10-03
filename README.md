@@ -41,12 +41,12 @@ Data /Hora Ocorrência: 29/09/2020 08:25:23
 Status: Em transferência entre CDs da transportadora -
 
 -------------------------------------------------------------
-Data /Hora Ocorrência: 01/09/2020 10:06:34
+Data /Hora Ocorrência: 01/10/2020 10:06:34
 
 Status: Separado para o roteiro de entrega -
 
 -------------------------------------------------------------
-Data /Hora Ocorrência: 03/09/2020 14:29:25
+Data /Hora Ocorrência: 03/10/2020 14:29:25
 
 Status: Mercadoria em rota de entrega -
 
