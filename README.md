@@ -51,4 +51,9 @@ Data /Hora Ocorrência: 03/10/2020 14:29:25
 Status: Mercadoria em rota de entrega -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 03/10/2020 16:05:25
+
+Status: Mercadoria retida, aguardando a liberação do remetente -
+
+-------------------------------------------------------------
 
