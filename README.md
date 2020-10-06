@@ -56,4 +56,10 @@ Data /Hora Ocorrência: 03/10/2020 16:05:25
 Status: Mercadoria retida, aguardando a liberação do remetente -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 06/10/2020 08:14:34
+
+Status: Sua encomenda permanece retida, aguardando o posicionameto de ambas as partes,  em (05) cinco dias úteis à contar da data de retenção, seguirá para devolução ao remetente -
+
+-------------------------------------------------------------
+
 
