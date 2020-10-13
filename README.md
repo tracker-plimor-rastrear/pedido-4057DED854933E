@@ -10,7 +10,7 @@ Qtd. Volume: 1
 
 Data de saída: 21/09/2020
 
-Previsão de entrega: 06/10/2020  
+Previsão de entrega: Null  
 
 Situação: Recebida no CD da transportadora
 
@@ -59,6 +59,11 @@ Status: Mercadoria retida, aguardando a liberação do remetente -
 Data /Hora Ocorrência: 06/10/2020 08:14:34
 
 Status: Sua encomenda permanece retida, aguardando o posicionameto de ambas as partes,  em (05) cinco dias úteis à contar da data de retenção, seguirá para devolução ao remetente -
+
+-------------------------------------------------------------
+Data /Hora Ocorrência: 13/10/2020 08:15:28
+
+Status: Realocado no CDs, aguardando para seguir o trajéto -
 
 -------------------------------------------------------------
 
