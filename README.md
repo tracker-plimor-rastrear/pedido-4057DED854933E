@@ -66,5 +66,8 @@ Data /Hora Ocorrência: 13/10/2020 08:15:28
 Status: Realocado no CDs, aguardando para seguir o trajéto -
 
 -------------------------------------------------------------
+Data /Hora Ocorrência: 14/10/2020 07:45:34
+
+Status: Mercadoria em rota de entrega -
 
 
